@@ -1935,7 +1935,7 @@
 		}
 
 			form .field.half {
-				display: inline-block;
+				display: block;
 				width: 48%;
 			}
 
